@@ -1,0 +1,64 @@
+{
+  "name": "Prof. Soong Ju Oh (오 승주)",
+  "image": "prof.jpg",
+  "title": "Associate Professor",
+  "department": "Department of Materials Science and Engineering",
+  "university": "Korea University",
+  "phone": "+82-2-3290-3262",
+  "fax": "+82-2-928-3584",
+  "email": "sjoh1982@korea.ac.kr",
+  "office": "New Engineering Building, Room 619",
+  "education": [
+    {
+      "period": "2001. 3 ~ 2007. 8",
+      "degree": "B.S. in Materials Science and Engineering",
+      "institution": "Korea University, Seoul, South Korea"
+    },
+    {
+      "period": "2008. 9 ~ 2014. 5",
+      "degree": "Ph.D in Materials Science and Engineering",
+      "institution": "University of Pennsylvania, Philadelphia, PA, USA",
+      "advisor": "Prof. Cherie R. Kagan"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2007. 7 ~ 2008. 8",
+      "position": "Researcher",
+      "institution": "Nanomaterials Lab in Korea Institute of Science and Technology (KIST), Seoul, South Korea"
+    },
+    {
+      "period": "2008. 9 ~ 2014. 5",
+      "position": "Ph.D in Materials Science and Engineering",
+      "institution": "University of Pennsylvania, Philadelphia, PA, USA",
+      "advisor": "Prof. Cherie R. Kagan"
+    },
+    {
+      "period": "2014. 5 ~ 2014. 7",
+      "position": "Postdoctral Researcher",
+      "institution": "University of Pennsylvania, Philadelphia, PA, USA",
+      "pi": "Prof. Cherie R. Kagan"
+    },
+    {
+      "period": "2014. 7 ~ 2015. 2",
+      "position": "Postdoctral Research Associate",
+      "institution": "University of Illinois, Urbana Champaign, IL, USA",
+      "pi": "Prof. John A. Rogers"
+    }
+  ],
+  "researchInterests": [
+    "Semiconductor Nanocrystals device fabrication / characterization",
+    "Transistor, photodetector, Solar cell fabrication and characterization",
+    "Flexible and stretchable electronics"
+  ],
+  "awards": [
+    {
+      "date": "2014.3",
+      "title": "MRS Graduate Student Awards (MRS, San Francisco, USA)"
+    },
+    {
+      "date": "2014.5",
+      "title": "Sidney J. Stein Prize (University of Pennsylvania, Philadelphia, USA)"
+    }
+  ]
+}

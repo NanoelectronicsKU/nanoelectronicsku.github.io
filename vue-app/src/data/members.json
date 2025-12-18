@@ -1,0 +1,157 @@
+{
+  "current": [
+    {
+      "name": "Taesung Park",
+      "image": "pts.jpg",
+      "course": "Integrated Ph.D Course (24. S-)",
+      "education": [
+        "B.S. ~~ (2020-2021)",
+        "M.S. ~~ (2021-2022)",
+        "Ph.D. ~~ (2022-2023)"
+      ],
+      "research": "AAA, BBB, CCC",
+      "publications": [
+        "Nature ~~~~ (1st Author)"
+      ],
+      "email": "pts3421@gmail.com"
+    },
+    {
+      "name": "Byung Ku Jung",
+      "image": "jbg2.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "byungkujaung@gmail.com"
+    },
+    {
+      "name": "Woosik Kim",
+      "image": "kws.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "wskim282@gmail.com"
+    },
+    {
+      "name": "Young Kyun Choi",
+      "image": "cyk2.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "ksght1198@korea.ac.kr"
+    },
+    {
+      "name": "Seongkeun Oh",
+      "image": "osk.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "skohxx@korea.ac.kr"
+    },
+    {
+      "name": "Hyung Jin Choi",
+      "image": "chj2.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "blogandcafe@korea.ac.kr"
+    },
+    {
+      "name": "Junhyeok Park",
+      "image": "pjh.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "kerryon@korea.ac.kr"
+    },
+    {
+      "name": "Dae Yang Oh",
+      "image": "ody.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "daeyang.oh@gmail.com"
+    },
+    {
+      "name": "Hanseok Seo",
+      "image": "shs.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "jk8872@gmail.com"
+    },
+    {
+      "name": "Awais Ali Sultani",
+      "image": "ali.png",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "engr.awaixali@gmail.com"
+    },
+    {
+      "name": "Jungho Kim",
+      "image": "kjh.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "qwe9q@korea.ac.kr"
+    },
+    {
+      "name": "Seungshin Lim",
+      "image": "LSS.jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "lss2021kbr@korea.ac.kr"
+    },
+    {
+      "name": "Seongyong Hong",
+      "image": "HSY (2).jpg",
+      "course": "",
+      "education": [],
+      "research": "",
+      "publications": [],
+      "email": "soccer615@korea.ac.kr"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Seung-Wook Lee",
+      "image": "lsw.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "SK Hynix",
+      "yearEarned": "2018"
+    },
+    {
+      "name": "Mingi Seong",
+      "image": "smg.jpg",
+      "degree": "Master",
+      "currentPosition": "SK Hynix",
+      "yearEarned": "2018"
+    },
+    {
+      "name": "Hyungmok Joh",
+      "image": "jhm.jpg",
+      "degree": "Master",
+      "currentPosition": "Ph.D Student, Univ. of Texas Austin",
+      "yearEarned": "2018"
+    },
+    {
+      "name": "Haneun Kim",
+      "image": "khe.jpg",
+      "degree": "Master",
+      "currentPosition": "Samsung Electronics",
+      "yearEarned": "2019"
+    }
+  ]
+}
