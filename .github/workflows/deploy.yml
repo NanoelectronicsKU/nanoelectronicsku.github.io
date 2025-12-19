@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -49,6 +50,11 @@ jobs:
           name: production-files
           path: ./dist
 
+
+      - name: Decompress files
+        run: |
+          tar -xzf artifact.tar
+      
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
