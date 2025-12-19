@@ -53,7 +53,7 @@ jobs:
 
       - name: Decompress files
         run: |
-          tar -xzf artifact.tar
+          ls -al
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
