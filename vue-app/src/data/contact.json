@@ -1,0 +1,15 @@
+{
+  "professor": "Prof. Soong Ju Oh",
+  "message": "Please contact me via email. I'd be happy to assist with all your questions",
+  "address": {
+    "building": "New Engineering Building 619",
+    "department": "Department of materials Science and Engineering",
+    "university": "Korea University",
+    "street": "Anam-Dong, Seongbuk-Gu, Seoul 136-713",
+    "country": "Republic of Korea"
+  },
+  "phone": "+82-2-3290-3262",
+  "fax": "+82-2-928-3584",
+  "email": "sjoh1982@korea.ac.kr, sjoh1982@gmail.com",
+  "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3161.8325110159362!2d127.0240812152141!3d37.5825614797949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357cbd4279f29c71%3A0xe4e68bbe651c1494!2z6rOg66Ck64yA7ZWZ6rWQIOyLoOqzt-2Vmeq0gA!5e0!3m2!1sko!2skr!4v1575019783625!5m2!1sko!2skr"
+}

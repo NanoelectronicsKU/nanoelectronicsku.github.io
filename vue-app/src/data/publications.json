@@ -1,0 +1,64 @@
+{
+  "publications": [
+    {
+      "year": "2025",
+      "papers": [
+        {
+          "number": 100,
+          "title": "Paper name",
+          "authors": "a. oh, b choi, c park.....",
+          "journal": "Journal name",
+          "volume": "n",
+          "issue": "n",
+          "year": "2025",
+          "url": ""
+        },
+        {
+          "number": 99,
+          "title": "Paper name",
+          "authors": "a. oh, b choi, c park.....",
+          "journal": "Journal name",
+          "volume": "n",
+          "issue": "n",
+          "year": "2025",
+          "url": ""
+        },
+        {
+          "number": 98,
+          "title": "Paper name",
+          "authors": "a. oh, b choi, c park.....",
+          "journal": "Journal name",
+          "volume": "n",
+          "issue": "n",
+          "year": "2025",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "papers": [
+        {
+          "number": 97,
+          "title": "Paper name",
+          "authors": "a. oh, b choi, c park.....",
+          "journal": "Journal name",
+          "volume": "n",
+          "issue": "n",
+          "year": "2025",
+          "url": ""
+        },
+        {
+          "number": 96,
+          "title": "Paper name",
+          "authors": "a. oh, b choi, c park.....",
+          "journal": "Journal name",
+          "volume": "n",
+          "issue": "n",
+          "year": "2025",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
