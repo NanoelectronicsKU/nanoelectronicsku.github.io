@@ -1,127 +1,172 @@
 {
   "current": [
     {
-      "name": "Taesung Park",
-      "image": "pts.jpg",
-      "course": "Integrated Ph.D Course (24. S-)",
-      "education": [
-        "B.S. ~~ (2020-2021)",
-        "M.S. ~~ (2021-2022)",
-        "Ph.D. ~~ (2022-2023)"
-      ],
-      "research": "AAA, BBB, CCC",
-      "publications": [
-        "Nature ~~~~ (1st Author)"
-      ],
-      "email": "pts3421@gmail.com"
-    },
-    {
       "name": "Byung Ku Jung",
       "image": "jbg2.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Integrated Ph.D. course (21. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2017.03-2021.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2021.02-)"
+      ],
+      "research": "Optoelectronics devices, Physical sensors",
+      "publications": ["ACS Energy Lett., High-Affinity Ligand-Enhanced Passivation of Group III–V Colloidal Quantum Dots for Sensitive Near-Infrared Photodetection (1st Author)"],
       "email": "byungkujaung@gmail.com"
     },
     {
       "name": "Woosik Kim",
       "image": "kws.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Postdoctral Researcher (26. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2017.03-2021.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2021.03-2026.02)",
+        "Post-Doc in Materials Science and Engineering, Korea University, Seoul, South Korea (2026.03-)"
+      ],
+      "research": "Perovskite, Nanowire, Neuromorphic Device, Patterning",
+      "publications": ["ECS J. Solid State Sci. Technol., Investigation of the Role of Cations during Anion Exchange in All-Inorganic Halide Perovskite Nanocrystals",
+                        "Adv. Funct. Mater., Patterning All-Inorganic Halide Perovskite with Adjustable Phase for High-Resolution Color Filter and Photodetector Arrays (1st Author)",
+                        "Compos. Pt. B-Eng., Highly Stretchable and Conductive Kirigami-like Double-layer Electrodes for Motion-insensitive Wearable Electronics (1st Author)",
+                        "ACS Appl. Mater. Interface, Optoelectronic Synaptic Transistors Based on Colloidal CdSe Nanowires for Energy-Efficient Neuromorphic Computing, under revision (1st Author)"],
       "email": "wskim282@gmail.com"
     },
     {
       "name": "Young Kyun Choi",
       "image": "cyk2.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
+      "course": "Integrated Ph.D. course (21. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2017.03-2021.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2021.03-)"
+      ],
+      "research": "Quantum dot Photovoltaics, Wearable electronics",
       "publications": [],
       "email": "ksght1198@korea.ac.kr"
     },
     {
       "name": "Seongkeun Oh",
       "image": "osk.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Integrated Ph.D. course (22. S-)",
+      "education": [
+        "B.S. in Advanced Materials Engineering, Kyonggi University, Suwon, South Korea (2012.03-2018.02)",
+        "M.S. in Advanced Materials Engineering, Kyonggi University, Suwon, South Korea (2018.03-2020.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2022.03-)"
+      ],
+      "research": "Quantum dots, Upconversion infrared image sensor, Hybrid device",
+      "publications": ["ACS Energy Lett., Designing a Quantum Dot Upconversion Infrared Image Sensor via a Photomultiplication Mechanism (1st Author)"],
       "email": "skohxx@korea.ac.kr"
     },
     {
       "name": "Hyung Jin Choi",
       "image": "chj2.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
+      "course": "Integrated Ph.D. course (23. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2017.03-2023.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2023.03-)"
+      ],
+      "research": "Photodiode, MEMS, Kirigami",
       "publications": [],
       "email": "blogandcafe@korea.ac.kr"
     },
     {
       "name": "Junhyeok Park",
       "image": "pjh.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Integrated Ph.D. course (23. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2016.03-2022.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2023.03-)"
+      ],
+      "research": "Quantum Dots, Light Emitting Diodes, Patterning",
+      "publications": ["Chem. Eng. J., Reusable gasochromic gas sensor with enhanced selectivity for acidic gases via surface-engineered all-inorganic perovskite nanocrystals (1st Author)",
+                        "Mater. Today, Surface Chemistry Stabilized Photolithography for High-Resolution Quantum Dot Electronic and Optoelectronic Devices (1st Author)" ],
       "email": "kerryon@korea.ac.kr"
     },
     {
       "name": "Dae Yang Oh",
       "image": "ody.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Integrated Ph.D. course (2023. F-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2017.03-2023.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2023.09-)"
+      ],
+      "research": "Wearable healthcare device, Biocompatible nanocrystal, Optoelectronics",
+      "publications": ["Chem. Eng. J., Infection Protective Biomimetic Wearable Strain Sensor for Laryngeal and Articular Movement Monitoring Inspired by Epidermal Protection and Dermal Motion Detection (1st Author)",
+                        "ACS Appl. Mater. Interfaces, Designing an Antibacterial Radiative Cooling Device with the Engineering Optical Properties of Silver Nanoparticles (1st Author)"],
       "email": "daeyang.oh@gmail.com"
     },
     {
       "name": "Hanseok Seo",
       "image": "shs.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Integrated Ph.D. course (24. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2018.03-2024.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2024.03-)"
+      ],
+      "research": "Optoelectronics, Physically Unclonable Function",
+      "publications": ["Adv. Funct. Mater., Quantum Dots and Perovskites-Based Physically Unclonable Functions for Binary and Ternary Keys via Optical-to-Electrical Conversion (1st Author)"],
       "email": "jk8872@gmail.com"
     },
     {
       "name": "Awais Ali Sultani",
       "image": "ali.png",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Postdoctral Researcher (24. F-)",
+      "education": [
+        "B.S. (2011-2015)",
+        "M.S. School of Chemical Engineering, Yeungnam University, Gyeongsan, Republic of Korea (2017.03-2019.02)",
+        "Ph. D in School of Chemical Engineering, Sungkyunkwan University, Suwon, Republic of Korea (2019.03-2024.00)",
+        "Post-Doc in Materials Science and Engineering, Korea University, Seoul, South Korea (2024.08-)" 
+      ],
+      "research": "Quantum Dots, Optoelectronics, Energy Storage",
+      "publications": ["Chem. Eng. J., Experimental and first-principles analyses of oxidative defect removal in eco-friendly InP quantum dot synthesis via in situ HF etching (1st Author)",
+                        "Laser Photon. Rev., Exploring the Recent Progress in InP Quantum Dots and QLEDs: Advances in Synthesis, Architecture, and Applications (1st Author)",
+                        "ACS Appl. Mater. Interfaces, Optimizing QLED Performance and Stability via the Surface Modification of PEDOT:PSS Experimental Insights and DFT Calculations (1st Author)"],
       "email": "engr.awaixali@gmail.com"
     },
     {
       "name": "Jungho Kim",
       "image": "kjh.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
+      "course": "Ph.D. course (24. S-)",
+      "education": [
+        "B.S. in Advanced Materials Engineering, Kyonggi University, Suwon, South Korea (2016.03-2022.02)",
+        "M.S. in Advanced Materials Engineering, Kyonggi University, Suwon, South Korea (2022.03-2024.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2024.03-)"
+      ],
+      "research": "Quantum Dot, Thin Film Transistor, P-type semiconductor",
       "publications": [],
       "email": "qwe9q@korea.ac.kr"
     },
     {
       "name": "Seungshin Lim",
       "image": "LSS.jpg",
-      "course": "",
-      "education": [],
-      "research": "",
-      "publications": [],
+      "course": "Master course (24. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2020.03-2025.02)",
+        "M.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2025.03-)"
+      ],
+      "research": "optoelectronic device, PUF",
+      "publications": ["Adv. Funct. Mater., Complex Cryptographic and User-Centric Physically Unclonable Functions Enabled by Strain-Sensitive Nanocrystals via Selective Ligand Exchange (1st Author)"],
       "email": "lss2021kbr@korea.ac.kr"
     },
     {
       "name": "Seongyong Hong",
       "image": "HSY (2).jpg",
-      "course": "",
-      "education": [],
-      "research": "",
+      "course": "Integrated Ph.D. course (25. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2019.03-2025.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2025.03-)"
+      ],
+      "research": "optoelectronic device, quantum dot",
       "publications": [],
       "email": "soccer615@korea.ac.kr"
+    },
+        {
+      "name": "Min Joon Park",
+      "image": "PMJ.jpg",
+      "course": "Integrated Ph.D. course (26. S-)",
+      "education": [
+        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2022.03-2026.02)",
+        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2026.03-)"
+      ],
+      "research": "MOD ink",
+      "publications": [],
+      "email": "hipmj86@gmail.com"
     }
   ],
   "alumni": [
@@ -152,6 +197,104 @@
       "degree": "Master",
       "currentPosition": "Samsung Electronics",
       "yearEarned": "2019"
+    },
+    {
+      "name": "Minsu Kang",
+      "image": "kms.jpg",
+      "degree": "Master",
+      "currentPosition": "SK Hynix",
+      "yearEarned": "2019"
+    },
+    {
+      "name": "Woo Seok Lee",
+      "image": "lws.jpg",
+      "degree": "Master",
+      "currentPosition": "Ph.D Student, M.I.T.",
+      "yearEarned": "2019"
+    },
+    {
+      "name": "Donggyu Kim",
+      "image": "kdg.jpg",
+      "degree": "Master",
+      "currentPosition": "SK Hynix",
+      "yearEarned": "2019"
+    },
+    {
+      "name": "Hyewon Yun",
+      "image": "HY.jpg",
+      "degree": "Master",
+      "currentPosition": "Samsung Electronics",
+      "yearEarned": "2019"
+    },
+    {
+      "name": "Ashraf Hossain",
+      "image": "ashraf.jpg",
+      "degree": "Post-doc",
+      "currentPosition": "Post-doc, North Dakota State University",
+      "yearEarned": "2019"
+    },
+    {
+      "name": "Ho Kun Woo",
+      "image": "whg.jpg",
+      "degree": "Master",
+      "currentPosition": "Ph.D Student, UIUC",
+      "yearEarned": "2020"
+    },
+    {
+      "name": "Sanghyun Jeon",
+      "image": "jsh1.jpg",
+      "degree": "Master",
+      "currentPosition": "Ph.D Student, UIUC",
+      "yearEarned": "2021"
+    },
+    {
+      "name": "Jung Ho Bae",
+      "image": "bjh.jpg",
+      "degree": "Master",
+      "currentPosition": "Samsung Electronics",
+      "yearEarned": "2023"
+    },
+    {
+      "name": "Junsung Bang",
+      "image": "bjs.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "Samsung Electronics",
+      "yearEarned": "2023"
+    },
+    {
+      "name": "Junhyuk Ahn",
+      "image": "ajh.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "SSamsung Electro-Mechanics",
+      "yearEarned": "2024"
+    },
+    {
+      "name": "Yong Min Lee",
+      "image": "LYM.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "SK Hynix",
+      "yearEarned": "2024"
+    },
+    {
+      "name": "Sang Yeop Lee",
+      "image": "lsy.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "Sansung Electronics",
+      "yearEarned": "2025"
+    },
+    {
+      "name": "Yoonji Yang",
+      "image": "yyj.jpg",
+      "degree": "Master",
+      "currentPosition": "SK Hynix",
+      "yearEarned": "2025"
+    },
+    {
+      "name": "Taesung Park",
+      "image": "pts.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "",
+      "yearEarned": "2025"
     }
   ]
 }
