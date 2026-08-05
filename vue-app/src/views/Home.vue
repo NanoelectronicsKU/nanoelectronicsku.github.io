@@ -51,50 +51,34 @@
             <div class="highlight-year">2026</div>
 
             <div class="highlight-content">
-              <span class="highlight-category">Technology Transfer</span>
+              <span class="highlight-category">Publication</span>
 
               <h3 class="highlight-title">
-                Infrared quantum-dot photodetector technology transferred
+                Designing a Quantum Dot Upconversion Infrared Image Sensor via a Photomultiplication Mechanism
               </h3>
 
               <p class="highlight-description">
-                The laboratory's infrared photodetector technology was transferred
-                to ABC Company.
+                A Decade of Excellence in Energy Research (ACS Energy Letters)
               </p>
             </div>
           </article>
 
           <article class="highlight-item">
-            <div class="highlight-year">2025</div>
-
-            <div class="highlight-content">
-              <span class="highlight-category">Award</span>
-
-              <h3 class="highlight-title">
-                Best Paper Award
-              </h3>
-
-              <p class="highlight-description">
-                Received the Best Paper Award from the Korean Materials Research Society.
-              </p>
-            </div>
-          </article>
-
-          <article class="highlight-item">
-            <div class="highlight-year">2025</div>
+            <div class="highlight-year">2026</div>
 
             <div class="highlight-content">
               <span class="highlight-category">Publication</span>
 
               <h3 class="highlight-title">
-                Selected as a representative journal publication
+                High-Affinity Ligand-Enhanced Passivation of Group III–V Colloidal Quantum Dots for Sensitive Near-Infrared Photodetection
               </h3>
 
               <p class="highlight-description">
-                The research article was selected as a journal cover feature.
+                A Decade of Excellence in Energy Research (ACS Energy Letters)
               </p>
             </div>
           </article>
+
         </div>
       </section>
     </div>
