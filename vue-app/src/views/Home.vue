@@ -47,88 +47,24 @@
         <h2 class="section-title">Research Highlights</h2>
 
         <div class="highlight-list">
-          <article class="highlight-item">
-            <div class="highlight-year">2026</div>
+          <article
+            v-for="(item, index) in highlights"
+            :key="index"
+            class="highlight-item"
+            :class="{ 'has-image': item.image }"
+          >
+            <div class="highlight-year">{{ item.year }}</div>
 
             <div class="highlight-content">
-              <span class="highlight-category">Award</span>
-
-              <h3 class="highlight-title">
-                JSST best presentation award (S. Oh)
-              </h3>
-
-              <p class="highlight-description">
-                Wavelength-Selective Carrier Dynamics in a Quantum Dot-Based Dual-Input Upconversion Imaging Device
-              </p>
+              <span class="highlight-category">{{ item.category }}</span>
+              <h3 class="highlight-title">{{ item.title }}</h3>
+              <p class="highlight-description">{{ item.description }}</p>
             </div>
-          </article>        
 
-        <div class="highlight-list">
-          <article class="highlight-item">
-            <div class="highlight-year">2026</div>
-
-            <div class="highlight-content">
-              <span class="highlight-category">Award</span>
-
-              <h3 class="highlight-title">
-                KIEEME best presentation award (S. Oh)
-              </h3>
-
-              <p class="highlight-description">
-                Dual-Input Modulation of Carrier Dynamics in a Multispectral Quantum Dot Upconversion Infrared Image Sensor
-              </p>
+            <div v-if="item.image" class="highlight-image-container">
+              <img :src="item.image" :alt="item.title" class="highlight-image" />
             </div>
           </article>
-
-        <div class="highlight-list">
-          <article class="highlight-item">
-            <div class="highlight-year">2026</div>
-
-            <div class="highlight-content">
-              <span class="highlight-category">Award</span>
-
-              <h3 class="highlight-title">
-                QD 2026 poster award (J. Park)
-              </h3>
-
-              <p class="highlight-description">
-                Scalable Quantum Dot Lithography via Functional Photoresist: Simultaneous Patterningn and Surface Modification
-              </p>
-            </div>
-          </article>
-
-          <article class="highlight-item">
-            <div class="highlight-year">2026</div>
-
-            <div class="highlight-content">
-              <span class="highlight-category">Publication</span>
-
-              <h3 class="highlight-title">
-                Designing a Quantum Dot Upconversion Infrared Image Sensor via a Photomultiplication Mechanism
-              </h3>
-
-              <p class="highlight-description">
-                A Decade of Excellence in Energy Research (ACS Energy Letters)
-              </p>
-            </div>
-          </article>
-
-          <article class="highlight-item">
-            <div class="highlight-year">2026</div>
-
-            <div class="highlight-content">
-              <span class="highlight-category">Publication</span>
-
-              <h3 class="highlight-title">
-                High-Affinity Ligand-Enhanced Passivation of Group III–V Colloidal Quantum Dots for Sensitive Near-Infrared Photodetection
-              </h3>
-
-              <p class="highlight-description">
-                A Decade of Excellence in Energy Research (ACS Energy Letters)
-              </p>
-            </div>
-          </article>
-
         </div>
       </section>
     </div>
@@ -137,7 +73,56 @@
 
 <script>
 export default {
-  name: 'Home'
+  name: 'Home',
+  data() {
+    return {
+      // 항목을 추가/수정할 때는 이 배열만 고치면 됩니다.
+      // image는 선택사항입니다. 없으면 이미지 칸 없이 표시됩니다.
+      // 이미지 파일은 public/img/ 폴더에 넣고 '/img/파일명' 으로 적어주세요.
+      highlights: [
+        {
+          year: '2026',
+          category: 'Award',
+          title: 'JSST best presentation award (S. Oh)',
+          description:
+            'Wavelength-Selective Carrier Dynamics in a Quantum Dot-Based Dual-Input Upconversion Imaging Device',
+          image: '/img/2026 JSST Award.png'
+        },
+        {
+          year: '2026',
+          category: 'Award',
+          title: 'KIEEME best presentation award (S. Oh)',
+          description:
+            'Dual-Input Modulation of Carrier Dynamics in a Multispectral Quantum Dot Upconversion Infrared Image Sensor',
+          image: '/img/2026 KIEEME Award.png'
+        },
+        {
+          year: '2026',
+          category: 'Award',
+          title: 'QD 2026 poster award (J. Park)',
+          description:
+            'Scalable Quantum Dot Lithography via Functional Photoresist: Simultaneous Patterning and Surface Modification',
+          image: ''
+        },
+        {
+          year: '2026',
+          category: 'Publication',
+          title:
+            'Designing a Quantum Dot Upconversion Infrared Image Sensor via a Photomultiplication Mechanism',
+          description: 'A Decade of Excellence in Energy Research (ACS Energy Letters)',
+          image: '' // 예: '/img/highlights/upconversion.png'
+        },
+        {
+          year: '2026',
+          category: 'Publication',
+          title:
+            'High-Affinity Ligand-Enhanced Passivation of Group III–V Colloidal Quantum Dots for Sensitive Near-Infrared Photodetection',
+          description: 'A Decade of Excellence in Energy Research (ACS Energy Letters)',
+          image: ''
+        }
+      ]
+    }
+  }
 }
 </script>
 
@@ -270,6 +255,24 @@ export default {
   border: 1px solid #d7d7d7;
 }
 
+/* 이미지가 있는 항목: 연도 | 내용 | 이미지 */
+.highlight-item.has-image {
+  grid-template-columns: 90px 1fr 240px;
+  align-items: start;
+}
+
+.highlight-image-container {
+  border: 1px solid #d7d7d7;
+  background: #fff;
+  overflow: hidden;
+}
+
+.highlight-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .highlight-year {
   font-size: 1.3rem;
   font-weight: 700;
@@ -309,6 +312,10 @@ export default {
 @media (max-width: 968px) {
   .main-title {
     font-size: 2.5rem;
+  }
+
+  .highlight-item.has-image {
+    grid-template-columns: 90px 1fr 180px;
   }
 
   .research-image-container {
@@ -363,10 +370,15 @@ export default {
     font-size: 1.6rem;
   }
 
-  .highlight-item {
+  .highlight-item,
+  .highlight-item.has-image {
     grid-template-columns: 70px 1fr;
     gap: 1rem;
     padding: 1.25rem;
+  }
+
+  .highlight-item.has-image .highlight-image-container {
+    grid-column: 1 / -1;
   }
 
   .highlight-year {
@@ -405,8 +417,13 @@ export default {
     font-size: 1.4rem;
   }
 
-  .highlight-item {
+  .highlight-item,
+  .highlight-item.has-image {
     display: block;
+  }
+
+  .highlight-image-container {
+    margin-top: 1rem;
   }
 
   .highlight-year {
