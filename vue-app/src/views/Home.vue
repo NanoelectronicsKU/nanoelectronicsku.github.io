@@ -51,6 +51,56 @@
             <div class="highlight-year">2026</div>
 
             <div class="highlight-content">
+              <span class="highlight-category">Award</span>
+
+              <h3 class="highlight-title">
+                JSST best presentation award (S. Oh)
+              </h3>
+
+              <p class="highlight-description">
+                Wavelength-Selective Carrier Dynamics in a Quantum Dot-Based Dual-Input Upconversion Imaging Device
+              </p>
+            </div>
+          </article>        
+
+        <div class="highlight-list">
+          <article class="highlight-item">
+            <div class="highlight-year">2026</div>
+
+            <div class="highlight-content">
+              <span class="highlight-category">Award</span>
+
+              <h3 class="highlight-title">
+                KIEEME best presentation award (S. Oh)
+              </h3>
+
+              <p class="highlight-description">
+                Dual-Input Modulation of Carrier Dynamics in a Multispectral Quantum Dot Upconversion Infrared Image Sensor
+              </p>
+            </div>
+          </article>
+
+        <div class="highlight-list">
+          <article class="highlight-item">
+            <div class="highlight-year">2026</div>
+
+            <div class="highlight-content">
+              <span class="highlight-category">Award</span>
+
+              <h3 class="highlight-title">
+                QD 2026 poster award (J. Park)
+              </h3>
+
+              <p class="highlight-description">
+                Scalable Quantum Dot Lithography via Functional Photoresist: Simultaneous Patterningn and Surface Modification
+              </p>
+            </div>
+          </article>
+
+          <article class="highlight-item">
+            <div class="highlight-year">2026</div>
+
+            <div class="highlight-content">
               <span class="highlight-category">Publication</span>
 
               <h3 class="highlight-title">
