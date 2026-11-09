@@ -1,18 +1,6 @@
 {
   "current": [
     {
-      "name": "Byung Ku Jung",
-      "image": "jbg2.jpg",
-      "course": "Integrated Ph.D. course (21. S-)",
-      "education": [
-        "B.S. in Materials Science and Engineering, Korea University, Seoul, South Korea (2017.03-2021.02)",
-        "Ph. D in Materials Science and Engineering, Korea University, Seoul, South Korea (2021.02-)"
-      ],
-      "research": "Optoelectronics devices, Physical sensors",
-      "publications": ["ACS Energy Lett., High-Affinity Ligand-Enhanced Passivation of Group III–V Colloidal Quantum Dots for Sensitive Near-Infrared Photodetection (1st Author)"],
-      "email": "byungkujaung@gmail.com"
-    },
-    {
       "name": "Woosik Kim",
       "image": "kws.jpg",
       "course": "Postdoctral Researcher (26. S-)",
@@ -296,6 +284,13 @@
       "degree": "Ph.D.",
       "currentPosition": "",
       "yearEarned": "2025"
+    },
+    {
+      "name": "Byung Ku Jung",
+      "image": "jbg2.jpg",
+      "degree": "Ph.D.",
+      "currentPosition": "Samsung Electro-Mechanics",
+      "yearEarned": "2026"
     }
   ]
 }
