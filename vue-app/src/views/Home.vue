@@ -102,7 +102,7 @@ export default {
           title: 'QD 2026 poster award (J. Park)',
           description:
             'Scalable Quantum Dot Lithography via Functional Photoresist: Simultaneous Patterning and Surface Modification',
-          image: ''
+          image: '/img/2026 QD Award.png'
         },
         {
           year: '2026',
@@ -110,7 +110,7 @@ export default {
           title:
             'Designing a Quantum Dot Upconversion Infrared Image Sensor via a Photomultiplication Mechanism',
           description: 'A Decade of Excellence in Energy Research (ACS Energy Letters)',
-          image: '' // 예: '/img/highlights/upconversion.png'
+          image: ''
         },
         {
           year: '2026',
