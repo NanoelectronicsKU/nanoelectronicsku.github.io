@@ -86,7 +86,7 @@ export default {
           title: 'JSST best presentation award (S. Oh)',
           description:
             'Wavelength-Selective Carrier Dynamics in a Quantum Dot-Based Dual-Input Upconversion Imaging Device',
-          image: '/img/2026 JSST Award.png'
+          image: '/img/2026_JSST_Award.png'
         },
         {
           year: '2026',
@@ -94,7 +94,7 @@ export default {
           title: 'KIEEME best presentation award (S. Oh)',
           description:
             'Dual-Input Modulation of Carrier Dynamics in a Multispectral Quantum Dot Upconversion Infrared Image Sensor',
-          image: '/img/2026 KIEEME Award.png'
+          image: '/img/2026_KIEEME_Award.png'
         },
         {
           year: '2026',
@@ -102,7 +102,7 @@ export default {
           title: 'QD 2026 poster award (J. Park)',
           description:
             'Scalable Quantum Dot Lithography via Functional Photoresist: Simultaneous Patterning and Surface Modification',
-          image: '/img/2026 QD Award.png'
+          image: '/img/2026_QD_Award.png'
         },
         {
           year: '2026',
